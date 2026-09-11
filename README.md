@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vatsal Sharma 👋</h1>
-<h3 align="center">Data Scientist · Machine Learning Engineer · Competitive Programmer</h3>
+<h3 align="center">Data Scientist · Software Development Engineer · Competitive Programmer</h3>
 
 <p align="center">
   <a href="mailto:vatsalkps12345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
