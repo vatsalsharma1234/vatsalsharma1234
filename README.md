@@ -1,18 +1,22 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
+</p>
+
 <h1 align="center">Hi, I'm Vatsal Sharma 👋</h1>
-<h3 align="center">B.Tech (IT) · Full-Stack Developer · Competitive Programmer</h3>
+<h3 align="center">B.Tech (IT) · Backend Developer (Python) · Competitive Programmer</h3>
 
 <p align="center">
   <a href="mailto:vatsalkps12345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/vatsal-sharma-37266428a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://shorturl.at/gh2oh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/vatsalsharma1234"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/minndflayer/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/DSA_Holic/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
 
 ### 👋 About Me
 
-CS grad skilled in Java and Python who has deployed 5+ web apps addressing real-world problems in India — from address trust verification to flood-relief coordination to UPI fraud protection. Finalist at HackVega 2.0 (45k+ participants nationwide), Knight Badge on LeetCode, and Google-certified in AI Essentials.
+IT grad skilled in C++ and Python, having deployed 5+ web applications that address real issues in India. Finalist in HackVega 2.0 Hackathon among 45k+ participants, earned the Knight Badge on LeetCode (300+ problems, top 23% globally), and Google certified in AI Essentials (4.8/5 rating, 1.9M+ learners), covering Generative AI and Prompt Engineering.
 
 ---
 
@@ -44,20 +48,19 @@ Built and deployed **Baadh Mitra**, a flood-relay coordinator (FastAPI, React, P
 
 A UPI risk companion blending a 10-rule fraud engine with a logistic regression classifier to flag risky payments before the PIN is entered. Every risk explanation is localized into 7 Indian languages with speech synthesis, and flagged transactions get a cooling-off step so overriding a warning never feels rewarded.
 
-#### 📊 GrowEasy — AI-Powered CRM CSV Importer · *May 2026 – Jun 2026*
-`Node.js · Next.js · Python · FastAPI · Pytest · GitHub Actions` · [Live Demo](https://advance-ai-csv-importer.vercel.app/) · [Project](https://github.com/vatsalsharma1234/CRM-CSV-Importer)
+#### 🎬 Movie Recommender System · *May 2026 – Jun 2026*
+`Python · FastAPI · React` · [Live Demo](https://advance-ai-csv-importer.vercel.app/) · [Project](https://github.com/vatsalsharma1234/CRM-CSV-Importer)
 
-Uses Gemini for one-time mapping, deterministic processing, and cached AI classification to clean and validate leads. Engineered a scalable pipeline with streaming CSV parsing, SSE progress updates, retry-based AI calls, cached classification, and virtualized tables for 50K+ rows.
+A content-based movie recommendation system using CountVectorizer and cosine similarity to recommend similar movies based on genres, cast, crew, keywords, and plot overviews. Built a text preprocessing and feature engineering pipeline to vectorize movie metadata and generate real-time recommendations through an optimized cosine similarity matrix.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Core Languages:** C/C++ · Java · Python · JavaScript
-**Web Development:** FastAPI · React · RESTful APIs · Vite · Tailwind CSS
-**Data & DevOps:** SQL · SQLAlchemy
-**AI/ML:** Scikit-Learn · NumPy · Pandas · Generative AI · Prompt Engineering
-**Practices:** DSA · OOD · Relational Databases · Git/GitHub · CI/CD (GitHub Actions) · Agile
+**Core Languages:** C/C++ · Python · JavaScript
+**Web Development:** FastAPI · React · RESTful APIs · Flask · Tailwind CSS
+**Data & DevOps:** SQL · SQLAlchemy · NumPy · Pandas · Prompt Engineering
+**CS Fundamentals & Practices:** Data Structures & Algorithms · Object-Oriented Design · Relational Databases · Git/GitHub · Agile Methodologies · Google Workspace
 
 ---
 
@@ -73,12 +76,16 @@ Uses Gemini for one-time mapping, deterministic processing, and cached AI classi
 
 ### 📈 Achievements
 
-- 💻 **LeetCode** — 650+ problems solved, 1844 rating (top 6% globally), Knight Badge. [Profile](https://leetcode.com/u/minndflayer/)
+- 💻 **LeetCode** — 300+ problems solved (top 23% globally), Knight Badge. [Profile](https://leetcode.com/u/DSA_Holic/)
   - Biweekly Contest 160: Global Rank 1003 of 29,470
   - Weekly Contest 450: Global Rank 1451 of 26,806
-- **Amazon OA** — solved 72% of questions (Data Engineer role), 65% (SDE role). [Details](https://drive.google.com/file/d/1GsMaBBBGu-kANxy_ImHqlgYCijDSSvrd/view?usp=sharing)
-- **Google OA** — solved 88% of questions (Data Analytics role), 71% (SAD role). [Details](https://drive.google.com/file/d/1a7f9DzwyaDpoev_-vajnnqaVNKha7TtO/view?usp=sharing)
+- **Amazon OA** — solved 72% of questions (Data Engineer role), 65% (SDE role). [Link](https://drive.google.com/file/d/1GsMaBBBGu-kANxy_ImHqlgYCijDSSvrd/view?usp=sharing)
+- **Google OA** — solved 88% of questions (Data Analytics role), 71% (SAD role). [Link](https://drive.google.com/file/d/1a7f9DzwyaDpoev_-vajnnqaVNKha7TtO/view?usp=sharing)
 
 ---
 
-<p align="center"><i>Open to Software Development opportunities — let's connect.</i></p>
+<p align="center"><i>Open to Backend Development opportunities — let's connect.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
