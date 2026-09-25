@@ -103,11 +103,11 @@ technical_background:
 
 <h2> 📂 &nbsp;Featured Projects</h2>
 
-**DoorStep** — Python, FastAPI, React
+**TRUSTLY** — Python, FastAPI, React
 A trust verification layer on Google's Plus Codes system, giving a delivery rider or ambulance driver a transparent 4-tier, 0–100 trust score for a household before travelling there, backed by neighbour vouches and server-side geocoding validation, with an offline SMS fallback for rural areas.
 [Live Demo ↗](https://doorstep-trust-network.vercel.app/) &nbsp;|&nbsp; [GitHub ↗](https://github.com/vatsalsharma1234/Doorstep)
 
-**Baadh Mitra** — Python, FastAPI, React, PostgreSQL
+**Baadh Mitr** — Python, FastAPI, React, SQL
 A flood-relay coordinator that turns a Flood Hub-style alert into a ranked, door-to-door checklist for volunteers, using a weighted prioritization engine across 7 risk factors and 4 alert-severity levels so elderly-only and no-smartphone households are always flagged first.
 [Live Demo ↗](https://baadh-mitra.vercel.app/) &nbsp;|&nbsp; [GitHub ↗](https://github.com/vatsalsharma1234/Baadh-Mitra)
 
