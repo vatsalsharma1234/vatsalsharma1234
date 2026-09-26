@@ -72,7 +72,7 @@ technical_background:
 - 🥇 **HackVega 2.0 National Hackathon, Finalist** among 47,795 participants nationwide, all 3 technical questions solved (36/36 test cases) and 8/12 in the Advanced Live Coding round. [Certificate ↗](https://drive.google.com/file/d/124Qog_f7hLTQK-YFHTBpk6TSrSWDkpSN/view?usp=sharing)
 - 🤖 **Google AI Essentials**, a 5-course Specialization (4.8/5, 1.9M+ learners) covering generative AI fundamentals, prompt engineering, and responsible AI use. [Certificate ↗](https://drive.google.com/file/d/1ELc_YRqUMzrWO4iiPf3wHEsEcU5Hc7I9/view?usp=sharing)
 - 📊 **Google Advanced Data Analytics Certificate**, applying data analysis and AI-assisted evaluation techniques.
-- 💻 **LeetCode**: 300+ problems solved, top 23% globally. [Profile ↗](https://leetcode.com/u/DSA_Holic/)
+- 💻 **LeetCode**: 650+ across platform,300+ problems on leetcode, top 23% globally. [Profile ↗](https://leetcode.com/u/DSA_Holic/)
 
 ---  
   
